@@ -1,0 +1,36 @@
+{
+  "name": "vyltrex-launcher",
+  "version": "1.0.2",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "adm-zip": "^0.5.10"
+  },
+  "devDependencies": {
+    "electron-builder": "^24.0.0",
+    "electron": "^28.0.0"
+  },
+  "build": {
+    "appId": "com.vyltrex.launcher",
+    "productName": "Vyltrex Launcher",
+    "asar": true,
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}

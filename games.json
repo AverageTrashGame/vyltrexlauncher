@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vyltrex_gdps",
+    "name": "Vyltrex GDPS",
+    "category": "GDPS",
+    "tags": [
+      "gdps",
+      "geometry dash",
+      "vyltrex"
+    ],
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v1.0/GD.zip",
+    "exe": "Vyltrex GDPS.exe",
+    "sha256": "1921b261f25e4af755de6e6c82a2417f45d264e0ea21a898c3ce9af9212f6fe3",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
+  },
+  {
+    "id": "undertale",
+    "name": "Undertale",
+    "category": "Indie Games",
+    "tags": [
+      "Indie",
+      "undertale",
+      "sans"
+    ],
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v2.0/Undertale.zip",
+    "exe": "Undertale.exe",
+    "sha256": "24bd77373b909ff14c5ff26090cf96075659ca7fbb8d85a12126630a4690a964",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
+  },
+  {
+    "id": "worldbox",
+    "name": "WorldBox",
+    "category": "Indie Simulation Games",
+    "tags": [
+      "Indie",
+      "Sandbox",
+      "Simulation"
+    ],
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v3.0/WorldBox.zip",
+    "exe": "worldbox.exe",
+    "sha256": "5642dee1db2020ae65f02ce5dc328747a9c304400f642da5c435d5ba7a7a12c4",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
+  },
+  {
+    "id": "hollowknight",
+    "name": "Hollow Knight",
+    "category": "Indie Games",
+    "tags": [
+      "Indie",
+      "Knight",
+      "2D"
+    ],
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v4.0/HollowKnight.zip",
+    "exe": "Hollow Knight.exe",
+    "sha256": "db955bb168b1611560309bac20b4f08413de5ed0f85cd6cfb72d33b5115882e4",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
+  },
+  {
+    "id": "stonestoryrpg",
+    "name": "Stone Story RPG",
+    "category": "Idle Games",
+    "tags": [
+      "Idle",
+      "Rpg",
+      "2D"
+    ],
+    "download": "https://github.com/AverageTrashGame/vyltrexlaunchergame/releases/download/v5.0/StoneStoryRpg.zip",
+    "exe": "Stone Story.exe",
+    "sha256": "ab5e25b6834c61ff3614c97faabca6bac6d60aef7615ee9c6a1d9a04ccb6617b",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
+  }
+]
